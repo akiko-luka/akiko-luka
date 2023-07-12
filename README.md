@@ -1,6 +1,9 @@
-### Hi, I'm Akiko Luka 👋
+### Hi, I'm Akiko 👋
 
 - 🌱 I’m currently learning Web Development 💻
+
+### Github stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akl51&theme=dark&background=000000)](https://git.io/streak-stats)
  
 
 <!--
@@ -16,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoaccardi&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="marcoaccardi" /></p>
 -->

@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Akiko Luka 👋
+
+- 🌱 I’m currently learning Web Development 💻
+ 
 
 <!--
 **akl51/akl51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

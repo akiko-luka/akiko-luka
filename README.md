@@ -1,9 +1,15 @@
 ### Hi, I'm Akiko 👋
 
-- 🌱 I’m currently learning Web Development 💻
+- 🌱 I’m currently learning Web Development at DCI 💻
+
+
+
+---
+
+
 
 ### Github stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akl51&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akl51&theme=solarized-dark)](https://git.io/streak-stats)
  
 
 <!--

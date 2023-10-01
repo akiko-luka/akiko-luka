@@ -9,11 +9,11 @@
 
 
 ### Github stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akl51&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
  
 
 <!--
-**akl51/akl51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akiko-luka/akiko-luka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

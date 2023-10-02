@@ -12,6 +12,9 @@
 
 ### Github stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
+
+
+![Akiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=solarized-dark&dark_icons=true)
  
 
 <!--
@@ -29,5 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoaccardi&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="marcoaccardi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiko-luka&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="akiko-luka" /></p>
+
+![Akiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=prussian&dark_icons=true)
 -->

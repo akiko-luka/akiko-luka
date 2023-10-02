@@ -16,8 +16,7 @@
 
 ![Akiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=solarized-dark&dark_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact)
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact&theme=dark)
 
 <!--
 **akiko-luka/akiko-luka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

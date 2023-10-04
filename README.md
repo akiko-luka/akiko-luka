@@ -11,8 +11,8 @@
 
 
 ### Github stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
 
 | <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=prussian&dark_icons=true" alt="Akiko's github stats" /></a> | <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact&theme=prussian&dark&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiko-luka&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="akiko-luka" /></p>
 

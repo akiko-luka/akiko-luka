@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development at DCI 💻
 
-- I am from Japan and now living in Berlin, love ramen, sushi and am also into anime and taking pictures such as most Japanese, I guess.
+I am from Japan and now living in Berlin, love ramen, sushi and am also into anime and taking pictures such as most Japanese, I guess.
 
 
 

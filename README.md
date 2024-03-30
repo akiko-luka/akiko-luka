@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently learning Web Development at DCI Digital Career Institute💻
 
-I am from Japan and now living in Berlin, love ramen, sushi and am also into anime and taking pictures such as most Japanese, I guess.
+Originally from Japan and now based in Berlin, love ramen and sushi, along with interests in anime and photography, which are common among many Japanese individuals.
 
 
-**:fast_forward: [Link to my Portfolio](https://akikoluka.netlify.app/)**
+**:fast_forward: [Link to my Portfolio](https://akiko-portfolio.netlify.app/)**
 
 ---
 

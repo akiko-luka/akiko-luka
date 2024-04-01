@@ -5,7 +5,7 @@
 Originally from Japan and now based in Berlin, love ramen and sushi, along with interests in anime and photography, which are common among many Japanese individuals.
 
 
-**:fast_forward: [Link to my Portfolio](https://akiko-portfolio.netlify.app/)**
+**:fast_forward: [Link to my Portfolio](https://akikoluka.netlify.app/)**
 
 ---
 

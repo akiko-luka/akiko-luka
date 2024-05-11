@@ -18,6 +18,16 @@ Originally from Japan and now based in Berlin, love ramen and sushi, along with 
 | <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=prussian&dark_icons=true" alt="Akiko's github stats" /></a> | <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact&theme=prussian&dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+### My Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,nodejs,git,github,vscode,md,bootstrap,sass&theme=dark" />
+  </a>
+</p>
+
+
 <!--
 **akiko-luka/akiko-luka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

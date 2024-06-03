@@ -5,7 +5,7 @@
 Originally from Japan and now based in Berlin, love ramen and sushi, along with interests in anime and photography, which are common among many Japanese individuals.
 
 
-**:fast_forward: [Link to my Portfolio](https://akikoluka.netlify.app/)**
+**:fast_forward: [Link to my Portfolio](https://akiko-luka.netlify.app/)**
 
 ---
 
@@ -19,11 +19,11 @@ Originally from Japan and now based in Berlin, love ramen and sushi, along with 
 | ------------- | ------------- |
 
 
-### My Skills
+### My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,nodejs,git,github,vscode,md,bootstrap,sass&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,mongodb,express,react,nodejs,git,github,vscode,md,sass,bootstrap&theme=dark" />
   </a>
 </p>
 

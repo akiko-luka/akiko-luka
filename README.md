@@ -1,8 +1,8 @@
-### Hi, I'm Akiko 👋
+### Hey there! I'm Akiko 👋
 
-- 🌱 I’m currently learning Web Development at DCI Digital Career Institute💻
+- 🌱 I'm on an epic journey to become a Full-Stack Web Developer at DCI Digital Career Institute.💻
 
-Originally from Japan and now based in Berlin, love ramen and sushi, along with interests in anime and photography, which are common among many Japanese individuals.
+Originally from Japan and now living in Berlin, I’m all about ramen, sushi, anime, and photography – pretty much the standard package for a Japanese geek like me.
 
 
 **:fast_forward: [Link to my Portfolio](https://akiko-luka.netlify.app/)**

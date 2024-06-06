@@ -4,9 +4,9 @@
 
 Originally from Japan and now living in Berlin, I’m all about ramen, sushi, anime, and photography – which are common among many Japanese individuals.
 
-Before I got hooked on coding, I was in Customer Service, where I became a pro at crafting personalized solutions and making customers smile. In Japan, we hold customer satisfaction in the highest regard, and I've carried that value with me into web development.
+Back in 2012, I earned my Bachelor's degree in Computer Science, but life had other plans, and I didn't end up in the tech world right away. Now, with a fresh start in Germany, I'm ready to dive back into the industry. My goal is to find an amazing team where I can grow, learn, and create some digital magic.
 
-With my background in Customer Service and my coding skills, I'm all about creating web solutions that not only meet but exceed expectations. I'm thrilled to continue my journey in this exciting industry and can't wait to see what amazing things we can build together!
+I’m excited to return to the tech industry and immerse myself in web development. I aim to join a dynamic team where I can leverage my unique blend of customer service expertise and coding skills to create web solutions that not only meet but exceed expectations. I'm eager to learn, grow, and contribute to building amazing digital experiences together.
 
 
 **:fast_forward: [Link to my Portfolio](https://akiko-luka.netlify.app/)**

@@ -2,7 +2,7 @@
 
 Originally from Japan 🇯🇵 and now living in Berlin 🇩🇪, I’m all about ramen 🍜, sushi 🍣, anime 🎌 and photography 📸 – which are common among many Japanese individuals.
 
-In 2012, I earned a Bachelor's degree in Computer Science 🎓, but life took me in a different direction, leading me to gain experience in Customer Service through various roles. This background has equipped me with the skills to provide innovative, customized solutions for each customer's needs. I have learned the significance of prioritizing customer interests, a value deeply cherished in Japan.
+In 2012, I earned a Bachelor's degree in Computer Science 🎓, but life took me in a different direction, leading me to gain experience in Customer Service through various customer-oriented roles. This background has equipped me with the skills to provide innovative, customized solutions for each customer's needs. I have learned the significance of prioritizing customer interests, a value deeply cherished in Japan.
 
 Now embarking on a new chapter in Germany, I have recently completed an epic journey through the Full-Stack Web Developer program at DCI Digital Career Institute🚀🎉. I am eager to join a dynamic team where I can leverage my unique combination of customer service expertise and coding skills to create exceptional web solutions 💻. My goal is to thrive in an inspiring environment where I can grow, learn, and contribute to creating digital magic ✨.
 
@@ -16,9 +16,9 @@ Now embarking on a new chapter in Germany, I have recently completed an epic jou
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akiko-luka&theme=solarized-dark)](https://git.io/streak-stats)
 
-| <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=prussian&dark_icons=true" alt="Akiko's github stats" /></a> | <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact&theme=prussian&dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact&theme=prussian&dark&hide_border=true" /></a>
 
+---
 
 ### My Tech Stack
 
@@ -51,6 +51,7 @@ Now embarking on a new chapter in Germany, I have recently completed an epic jou
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-757575?style=for-the-badge&logo=render&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
@@ -73,5 +74,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+| <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akiko-luka&theme=prussian&dark_icons=true" alt="Akiko's github stats" /></a> | <a href="https://github.com/akiko-luka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiko-luka&layout=compact&theme=prussian&dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 -->

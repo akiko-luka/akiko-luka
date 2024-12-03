@@ -4,7 +4,7 @@ I’m all about ramen 🍜, sushi 🍣, anime 🎌 and photography 📸 – whic
 
 In 2012, I earned a Bachelor's degree in Computer Science 🎓, but life took me in a different direction, leading me to gain experience in Customer Service through various customer-oriented roles. This background has equipped me with the skills to provide innovative, customized solutions for each customer's needs. I have learned the significance of prioritizing customer interests, a value deeply cherished here in Japan.
 
-I have recently completed an epic journey through the Full-Stack Web Developer program at DCI Digital Career Institute🚀🎉 in Germany. I am eager to join a dynamic team where I can leverage my unique combination of customer service expertise and coding skills to create exceptional web solutions 💻. My goal is to thrive in an inspiring environment where I can grow, learn, and contribute to creating digital magic ✨.
+I have recently completed an epic journey through the Full-Stack Web Developer program at DCI Digital Career Institute🚀🎉 in Germany. I’m eager to join a dynamic team where I can blend my customer service expertise with my coding skills to craft exceptional web solutions 💻. My goal is to thrive in an inspiring environment where I can continue to grow, learn, and contribute to creating digital magic ✨.
 
 **:fast_forward: [Link to my Portfolio](https://akiko-luka.netlify.app/)**
 

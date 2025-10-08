@@ -2,7 +2,7 @@
 
 I’m all about ramen 🍜 sushi 🍣 anime 🎌 and photography 📸 — a few of the many things I love about Japan.
 
-I earned my Bachelor's degree in Computer Science 🎓, but life took me on a different path, leading me to gain experience in Customer Service through various customer-oriented roles. This background helped me develop strong communication, problem-solving, and teamwork skills — and taught me the importance of putting customers first. I have learned the significance of prioritizing customer interests, a value deeply cherished here in Japan.
+I earned my Bachelor's degree in Computer Science 🎓, but life took me on a different path, leading me to gain experience in Customer Service through various customer-oriented roles. This background helped me develop strong communication, problem-solving and teamwork skills while teaching me the importance of prioritizing customer interests — a value deeply cherished here in Japan.
 
 I later completed a Full-Stack Web Development program 🚀🎉 in Germany, where I gained hands-on experience through collaborative projects. Now, I’m eager to join a dynamic team where I can combine my customer service background with my coding skills to create meaningful web solutions 💻 and continue growing as a developer ✨.
 
